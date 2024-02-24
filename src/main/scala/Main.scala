@@ -1,5 +1,5 @@
-@main def hello(): Unit =
-  println("Hello world!")
-  println(msg)
-
-def msg = "I was compiled by Scala 3. :)"
+import scraping.BusScraper
+@main def main(): Unit = {
+  val scraper = BusScraper
+  scraper.scrapeData()
+}
