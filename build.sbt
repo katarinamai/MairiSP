@@ -13,8 +13,9 @@ lazy val root = project
       "org.scalameta" %% "munit" % munitVersion % Test,
       "com.softwaremill.sttp.client4" %% "core" % sttp,
       "org.jsoup" % "jsoup" % jsoup,
-      "io.circe" %% "circe-core" % "0.14.1",
-      "io.circe" %% "circe-generic" % "0.14.1",
-      "io.circe" %% "circe-parser" % "0.14.1"
+      "io.circe" %% "circe-core" % "0.14.6",
+      "io.circe" %% "circe-generic" % "0.14.6",
+      "io.circe" %% "circe-parser" % "0.14.6",
+      "org.apache.commons" % "commons-csv" % "1.10.0"
     )
   )
