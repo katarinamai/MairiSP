@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/katarinamassakoinoue/Desktop/projects/mairiSP/src/main/scala/com/mairiSp/Main.scala:3:8: not found: object scraping[0m
+[0m[[0m[31merror[0m] [0m[0mimport scraping.BusScraper // Importe a classe BusScraper corretamente[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/katarinamassakoinoue/Desktop/projects/mairiSP/src/main/scala/com/mairiSp/Main.scala:8:23: not found: type BusScraper[0m
+[0m[[0m[31merror[0m] [0m[0m    val scraper = new BusScraper()[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
